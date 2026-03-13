@@ -59,7 +59,7 @@ I will separate two part for this recipe,
 	3. Management : 10.10.40.100 - 10.10.40.200
 
 ### Step 4 Set up Firewall Rules for VLAN
-1. Go to Firewall -> Rules ![file-20260313110249497](assets/Configure%20VLAN%20with%20pfSense%20-%20part1/file-20260313110249497.png)
+1. Go to Firewall -> Rules -> IOT ![file-20260313110249497](assets/Configure%20VLAN%20with%20pfSense%20-%20part1/file-20260313110249497.png)
 2. Click Add to create rule ![file-20260313110424421](assets/Configure%20VLAN%20with%20pfSense%20-%20part1/file-20260313110424421.png)
 	1. Action : Pass
 	2. Interface : IOT
