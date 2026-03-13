@@ -48,6 +48,7 @@ So let's start it.
 
 ## Networking
 [Configure VLAN with pfSense - part1](/Networking/Configure%20VLAN%20with%20pfSense%20-%20part1.md)
+
 [Configure VLAN with pfSense - part2](/Networking/Configure%20VLAN%20with%20pfSense%20-%20part2.md)
 
 
