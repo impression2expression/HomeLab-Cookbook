@@ -25,12 +25,10 @@ These hardwares are what I use on my server:
 - NIC:
 	- 2.5G Realtek  1 RJ45 port 
 	- HP 530T 10G 2 RJ45 port  
-- GPU: Dell Nvidia GTX 645 1GB 
-	- Note: 
-		- this just for install Proxmox, I didn't need this for after that. Only I need to check Proxmox console directly, I may need to put it on.
+
 
 Some recipes may need network equipment, I use : 
-- Cisco C3650CX 8 port PoE switch
+- Cisco C3560CX 8 port PoE switch
 - Cisco 892FSP Router
 - Cisco AIR-AP1852I
 
